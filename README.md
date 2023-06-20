@@ -2,7 +2,7 @@
 
 ** animation | CSS-Trick **
 
-![iran](https://github.com/sama-babaee-web/IRAN/assets/107030945/bee4ddde-534a-485d-8e79-19edcfa39124)
+![iran](https://github.com/sama-babaee-web/IRAN/assets/107030945/aedf23ea-855d-489f-b3cd-8794d7b80bc0)
 
 - [Demo Project](https://sama-babaee-web.github.io/IRAN/)
 
